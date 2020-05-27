@@ -1,2 +1,2 @@
-# snake-game
-drag the snake to the block to see the invisible maze around you 
+# p5.play-boilerplate
+Boiler plate for p5.play
